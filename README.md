@@ -29,6 +29,8 @@ This project visualizes data from the 2024 Olympics using Power BI, combining da
 
 ### Efficiency
 
+**How many athletes win individual medals per 100 participants**
+
 ![Efficiency](/Paris%202024%20Olympics%20Dashboard/Gifs/8_effeciency.gif)
 
 ### Discipline, Events and Players
